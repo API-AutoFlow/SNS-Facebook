@@ -70,12 +70,12 @@ Follow the instructions on the cloud marketplace listing to clone the applicatio
 Not yet listed
 
 #### Google cloud
-Not yet listed-->
+Not yet listed
 
 #### Oracle
 [https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332)
 
-<!-- #### Docker
+#### Docker
 Not yet listed 
 
 #### Kubernetes

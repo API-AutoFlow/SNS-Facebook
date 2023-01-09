@@ -23,9 +23,10 @@
 	<img src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/preview.gif">
 </p>
 
-## Live demo
 
-Check the live demo here 👉️ [https://www.interactor.com/demos/to-do-simple](https://www.interactor.com/demos/to-do-simple)
+<!--## Live demo
+
+Check the live demo here 👉️ [https://www.interactor.com/demos/to-do-simple](https://www.interactor.com/demos/to-do-simple)-->
 
 ## Overview
 🚀 **This is a production ready and complete solution.  It can be modified for your needs and deployed in the environment of your choice.** 
@@ -40,7 +41,7 @@ More features will be added to the project in the future.
 
 The UI of this project was inspired by this [amazing Radon333's work on todo-app](https://github.com/Radon333/todo-app).
 
-
+<!--
 ## Screenshots
 
 <img
@@ -51,7 +52,7 @@ The UI of this project was inspired by this [amazing Radon333's work on todo-app
 		width="210"
 		alt="Capture 2"
 		src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/capture-2.png">
-
+-->
 
 ## Installation and usage
 
